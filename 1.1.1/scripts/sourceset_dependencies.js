@@ -1,0 +1,1 @@
+sourceset_dependencies='{":android:alloycompose:dokkaHtml/androidTestRelease":[],":android:alloycompose:dokkaHtml/debug":[],":android:alloycompose:dokkaHtml/main":[],":android:alloycompose:dokkaHtml/release":[],":android:alloycompose:dokkaHtml/testFixtures":[],":android:alloycompose:dokkaHtml/testFixturesDebug":[],":android:alloycompose:dokkaHtml/testFixturesRelease":[]}'
